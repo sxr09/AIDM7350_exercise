@@ -1,0 +1,52 @@
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	width: 709px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.a{
+	height: 134px;
+	
+}
+.a1{
+	float: left;
+	height: 134px;
+	width: 201px;
+}
+.a2{
+	float: left;
+	height: 124px;
+	width: 498px;
+	background-color: #EEEDD9;
+	padding-top: 10px;
+	margin-left: 10px;
+	font-family: "Times New Roman";
+	font-size: 14px;
+	line-height: 20px;
+	background-repeat: no-repeat;
+}
+.clear{
+	clear: both;
+}
+.b{
+	height: 134px;
+	margin-bottom: 10px;
+}
+.b2{
+	float: left;
+	height: 124px;
+	width: 498px;
+	background-color: #7cf9e5;
+	padding-top: 10px;
+	margin-left: 10px;
+	font-family: "Times New Roman";
+	font-size: 14px;
+	line-height: 20px;
+	background-repeat: no-repeat;
+}
